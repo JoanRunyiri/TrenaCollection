@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608691309874",
+    "project_id": "trena-collection",
+    "storage_bucket": "trena-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608691309874:android:e4a2bf6ba5f004d8db1b2b",
+        "android_client_info": {
+          "package_name": "com.kanyideveloper.letsgoshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608691309874-1r2gh101ct4m9o5ckiegb07gnlhtssrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7NZy0CGCGzKFxIIvCdBRohlgbfrpHP0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608691309874-1r2gh101ct4m9o5ckiegb07gnlhtssrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
